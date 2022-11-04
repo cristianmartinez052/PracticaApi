@@ -1,0 +1,17 @@
+{
+    "name": "crist/practica-api",
+    "description": "Proyecto Api con Pixabay",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "crismartinez052",
+            "email": "martinezcristian052@gmail.com"
+        }
+    ],
+    "require": {}
+}
